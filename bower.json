@@ -1,0 +1,20 @@
+{
+  "name": "iot-dashboard",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Mateusz Kmiecik <mk.chomik@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mateuszkmiecik/iot-dashboard",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6"
+  }
+}
