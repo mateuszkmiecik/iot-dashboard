@@ -8,7 +8,6 @@ var bodyParser = require('body-parser');
 module.exports = function (db) {
 
     var routes = require('./routes/index');
-    var users = require('./routes/users');
     var sync = require('./routes/sync');
 
     var app = express();
